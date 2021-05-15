@@ -39,3 +39,13 @@ class bernoulli():
                 a=0
                 rvs = np.append(rvs,a)
         return rvs
+       
+       
+p=0.2 # probability of having an accident
+
+bernoulli.mean(p) # return -> 0.2
+bernoulli.var(p) # return -> 0.16
+bernoulli.std(p) # return -> 0.4
+
+bernoulli.rvs(p,size=10) 
+#return-> array([0., 0., 0., 0., 1., 0., 1., 0., 0., 1.])

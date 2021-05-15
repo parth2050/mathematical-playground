@@ -4,7 +4,11 @@ List of statistic's algorithms:
 2. Subset/ Powerset
 3. Bernoulli Distribution
 4. Poisson Distrubution
-5. 
+5. Binomial Distribution
+
+Application: 
+1. Generate Strong Password
+2. Game: Random Dice Automation
 <br>
 
 ### How to Run:

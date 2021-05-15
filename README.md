@@ -2,6 +2,9 @@
 List of statistic's algorithms:
 1. Permutaions 
 2. Subset/ Powerset
+3. Bernoulli Distribution
+4. Poisson Distrubution
+5. 
 <br>
 
 ### How to Run:

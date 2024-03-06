@@ -1,4 +1,4 @@
-# Statistic_Playground
+# Mathematical Playground
 List of statistic's algorithms:
 1. Permutaions 
 2. Subset/ Powerset
